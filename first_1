@@ -1,0 +1,18 @@
+dpkg-query --show nvidia-l4t-core
+nvcc --version
+sudo nvpmodel -q
+sudo nvpmodel -m 0
+sudo jetson_clocks
+cd course-autodrive/data-collector/hw_control/
+sudo python3 drive.py
+sudo python3 - << 'EOF'
+import Jetson.GPIO as GPIO
+print("GPIO module OK")
+EOF
+/usr/src/tensorrt/bin/trtexec \
+  --onnx=pilotnet_steering_[訓練日]_[訓練時間].onnx \
+  --saveEngine=pilotnet_steering.trt \
+  --explicitBatch \
+  --fp16 \
+  --workspace=1024 \
+  --verbose
