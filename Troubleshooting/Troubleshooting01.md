@@ -1,8 +1,8 @@
 Troubleshooting# Jetson Nano 자율주행 RC카 — 환경 구축 기록 (SETUP)
 
-> 자율주행 RC카의 SD카드가 초기화된 상태(OS 없음, 백지)에서 시작!
+> 자율주행 RC카의 SD카드가 초기화된 상태(OS 없음, 백지)에서 시작
 > 카메라·GPIO·PWM 제어까지 동작하는 환경을 처음부터 재구축...
-> **베이스 코드 출처:** [gsc-lab/course-autodrive](https://github.com/gsc-lab/course-autodrive) (영진전문대 캡스톤디자인 교재 코드 참고)
+> **베이스 코드 출처:** [gsc-lab/course-autodrive](https://github.com/gsc-lab/course-autodrive)
 ---
 
 ## 1. 시스템 구성
