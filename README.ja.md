@@ -23,7 +23,9 @@
 ### 8/7
 データ収集を実施！
 
-<img width="3024" height="4032" alt="KakaoTalk_20260922_122357033_07" src="https://github.com/user-attachments/assets/3d610131-7a1e-43d1-bc58-c2251927d613" />
+
+<img width="3024" height="2312" alt="KakaoTalk_20260922_122357033_07" src="https://github.com/user-attachments/assets/bc76bda1-6e64-4ac4-87b5-03c1f9604e80" />
+
 
 
 ### 8/12
@@ -44,10 +46,7 @@
 学習の安定性を確保した。
 
 
-
-
-
-<img width="3024" height="4032" alt="KakaoTalk_20260922_122357033_04" src="https://github.com/user-attachments/assets/8d498c78-6a2f-4a1e-8eff-acd69833b7f2" />
+<img width="3024" height="1939" alt="KakaoTalk_20260922_122357033_05" src="https://github.com/user-attachments/assets/c5e555f0-9160-48e0-a918-d4b87ff34e7f" />
 
 
 
@@ -58,12 +57,10 @@
 影響を与えることはないと判断し、交換を実施した。
 
 
-
-<img width="3024" height="4032" alt="KakaoTalk_20260922_122357033" src="https://github.com/user-attachments/assets/656527c9-2f31-4380-86ac-1ef642f608ad" />
-
+<img width="3024" height="2735" alt="KakaoTalk_20260922_122357033" src="https://github.com/user-attachments/assets/2a61928c-127f-49ef-bf3e-dd4a97c27f56" />
 
 
-<img width="3024" height="4032" alt="KakaoTalk_20260922_122357033_02" src="https://github.com/user-attachments/assets/92b69df3-9412-40a5-a253-147b96d9da05" />
+<img width="3024" height="4032" alt="KakaoTalk_20260922_122357033_02" src="https://github.com/user-attachments/assets/02069dd9-4b9b-44f3-9ec9-f2f465a93f2a" />
 
 
 
@@ -84,7 +81,7 @@
   結果、いずれも誤りラベルが約80%減少することを確認
 
 
-<img width="4032" height="3024" alt="KakaoTalk_20260922_122357033_03" src="https://github.com/user-attachments/assets/2708f120-5e6c-47f1-b7ae-d93cf2618ce5" />
+<img width="4032" height="3024" alt="KakaoTalk_20260922_122357033_03" src="https://github.com/user-attachments/assets/cbfb1961-8208-4a21-acbd-735476d9233d" />
 
 
 
